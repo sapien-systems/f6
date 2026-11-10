@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "note": "Seed values are illustrative and meant to be argued with. mass is a relative 0-1 placeholder until units are agreed.",
+  "entries": [
+    {"word": "individual liberty", "lang": "en", "lambda": 0.80, "delta": 0.10, "alpha": 0.10, "mass": 0.2, "runlevel": 1, "notes": "Seed example: the solo pole."},
+    {"word": "chaotic culture",    "lang": "en", "lambda": 0.10, "delta": 0.80, "alpha": 0.10, "mass": 0.7, "runlevel": 4, "notes": "Seed example: the chaos pole."},
+    {"word": "ordered state",      "lang": "en", "lambda": 0.05, "delta": 0.05, "alpha": 0.90, "mass": 0.9, "runlevel": 5, "notes": "Seed example: the order pole."},
+    {"word": "alone",              "lang": "en", "lambda": 0.95, "delta": 0.03, "alpha": 0.02, "mass": 0.1, "runlevel": 1, "notes": "Same position as 'ensam': one place, two languages."},
+    {"word": "ensam",              "lang": "sv", "lambda": 0.95, "delta": 0.03, "alpha": 0.02, "mass": 0.1, "runlevel": 1, "notes": "Swedish for 'alone'."},
+    {"word": "riot",               "lang": "en", "lambda": 0.05, "delta": 0.85, "alpha": 0.10, "mass": 0.6, "runlevel": 4, "notes": ""},
+    {"word": "military parade",    "lang": "en", "lambda": 0.02, "delta": 0.05, "alpha": 0.93, "mass": 0.7, "runlevel": 4, "notes": ""},
+    {"word": "market",             "lang": "en", "lambda": 0.10, "delta": 0.50, "alpha": 0.40, "mass": 0.6, "runlevel": 5, "notes": "Ordered rules, chaotic outcomes."}
+  ]
+}
