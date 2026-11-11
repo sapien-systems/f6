@@ -75,15 +75,15 @@ Runlevels are the human analog of an operating system's run states. A computer h
 
 | Level | Name | Definition | Symbol |
 |:-----:|------|------------|:------:|
-| 0 | Mental | Thoughts, abstractions, things that exist only in mind | ⚪ |
-| 1 | Self | Alone; no one around | ⬛ |
-| 2 | Dyad | With one other: spouse, child, teacher, friend | ⬛⬛ |
-| 3 | Family | Mother, father, children (the default household) | *to be defined* |
-| 4 | Culture | Many families with similar values; what they do **not** do for money | *to be defined* |
-| 5 | Economy | What is done **for** money | *to be defined* |
-| 6 | Sleep | Physical rest and dreaming | *to be defined* |
+| 0 | Mental | Thoughts, abstractions, things that exist only in mind | 0 |
+| 1 | Self | Alone; no one around | 一 |
+| 2 | Dyad | With one other: spouse, child, teacher, friend | 二 |
+| 3 | Family | Mother, father, children (the default household) | 三 |
+| 4 | Culture | Many families with similar values; what they do **not** do for money | iv |
+| 5 | Economy | What is done **for** money | V |
+| 6 | Sleep | Physical rest and dreaming | vi |
 
-Culture (4) and Economy (5) are deliberately split: the same activity can sit on either side depending on whether it is done for money.
+Culture (iv) and Economy (V) are deliberately split: the same activity can sit on either side depending on whether it is done for money.
 
 ### The Delphi Dice as the only interface
 
